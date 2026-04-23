@@ -4,4 +4,6 @@
 
 ## Experiment
 ## Results
+![results](cpu_vs_logscale.png)
+
 ## Conclusion
